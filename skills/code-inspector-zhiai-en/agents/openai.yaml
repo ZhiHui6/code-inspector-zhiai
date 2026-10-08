@@ -1,0 +1,7 @@
+interface:
+  display_name: "Code Inspector Zhiai (EN)"
+  short_description: "Cross-language code review and targeted remediation"
+  default_prompt: "Use $code-inspector-zhiai-en to review the selected code with language-specific checks and evidence."
+
+policy:
+  allow_implicit_invocation: true
