@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🛡️ Code Inspector Zhiai
 
 **面向 AI Agent 的跨语言代码审查技能**
@@ -8,9 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Rules](https://img.shields.io/badge/rules-265-blue.svg)](#-规则编号速览) [![Languages](https://img.shields.io/badge/languages-13-green.svg)](#-特性) [![Modes](https://img.shields.io/badge/modes-4-8A2BE2.svg)](#-工作模式) [![Python](https://img.shields.io/badge/python-3.11%2B-3776AB.svg)](skills/code-inspector-zhiai/scripts) [![Type](https://img.shields.io/badge/type-Agent%20Skill-informational.svg)](#)
 
-[📖 中文](#-中文) · [🌐 English](#-english)
-
-</div>
+📖 [中文](#-中文) · 🌐 [English](#-english)
 
 ---
 
@@ -191,8 +187,6 @@ python skills/code-inspector-zhiai-en/scripts/validate_report.py <report.md> [--
 
 本项目采用 [MIT License](LICENSE) 开源 · Licensed under the [MIT License](LICENSE).
 
-<div align="center">
+---
 
-**⭐ 如果这个项目对你有帮助，欢迎 Star 支持一下**
-
-</div>
+⭐ 如果这个项目对你有帮助，欢迎 Star 支持一下
